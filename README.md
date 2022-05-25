@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **[Disaster response tweets](https://github.com/rohit18115/disaster_response)**
 
+- ❤️ Here is the repository which keeps track of my **[open source contributions](https://github.com/rohit18115/my-open-source-progress)**
+
 - 🌱 I’m currently brushing up **statistics and leetcode skills**
 
 - 👯 I’m looking to collaborate on **[Foursquare Kaggle competition](https://www.kaggle.com/competitions/foursquare-location-matching/overview)**
@@ -25,7 +27,7 @@
 <a href="https://linkedin.com/in/rohit18115" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
 <!-- <a href="https://stackoverflow.com/users/10321356" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10321356" height="30" width="30" /></a> -->
 <a href="https://kaggle.com/rohit18115" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
-<a href="https://medium.com/@rohit18115" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@akhilgkrishnan" height="30" width="30" /></a>
+<a href="https://medium.com/@rohit18115" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rohit18115" height="30" width="30" /></a>
 </p>
 
 ----
